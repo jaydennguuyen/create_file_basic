@@ -1,0 +1,10 @@
+3.4.	Thêm mới chức năng “Đăng ký tăng ca”
+-	Bộ phận phát thầu tạo đơn với nội dung như sau:
+o	Thời gian tăng ca
+o	Lý do tăng ca 
+o	Tên nhà thầu (Chọn từ hệ thống)
+o	Thông tin của những công nhân sẽ tăng ca của nhà thầu đó (chọn từ danh sách công nhân đã được đăng ký của nhà thầu đó)
+o	Một số thông tin cần thiết khác…
+-	Đơn tăng ca sẽ được gửi theo thứ tự ký duyệt như sau: 
+o	Chủ quản bộ phận phát thầu => bộ phận HSE => bộ phận Bảo Vệ. 
+-	Nếu đơn được duyệt thì những người trong danh sách này khi ra vào xưởng trong khoảng thời gian đã đăng ký thì sẽ được tính là vào xưởng hợp lệ, còn những trường hợp không ra vào xưởng đúng giờ quy định (từ  5h đến 18h) sẽ tính là tăng ca trái phép (trừ công nhân của nhà cung ứng).
